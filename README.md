@@ -1,5 +1,5 @@
 # Artificial-intelligence_preparation-training
-AI training preparation code source before studying
+
 
 2021 2학기 부터 고교과목으로 인공지능 수학은 진행하게 된다. 그에 따른 인공지능을 경험해 보았다. 
 
