@@ -21,3 +21,9 @@
  
  
 <img width="984" alt="스크린샷 2021-03-21 오후 3 53 09" src="https://user-images.githubusercontent.com/77039803/111896528-9f0db780-8a5d-11eb-8bab-e99d13bdc2ef.png">
+
+
+---
+
+공부 기간 : 2021 . 4 . 24 ~ 
+매주 주말 업로드 예정 
